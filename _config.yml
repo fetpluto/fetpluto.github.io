@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "AI/BigData공부하는 github"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "오승현"
 description              : "An amazing website."
 url                      : "https://fetpluto.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
